@@ -28,7 +28,7 @@ span{
     font-size:14px;
 }
 
-span:hover{
+span:active{
   border-bottom:1px solid#000099;
   color:#000099;
 }
